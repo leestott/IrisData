@@ -2,6 +2,8 @@
 ## Iris Data Example Python Numpy
 ### https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/04/how-to-implement-the-backpropagation-using-python-and-numpy/
 
+### Azure Jupyter Notebook Demo Interactive Experiment https://notebooks.azure.com/n/ln6ojzL3dZY/notebooks/IrisDataDemo.ipynb
+
 The Iris Data Set has over 150 item records. Each item has four numeric predictor variables (often called features): sepal length and width, and petal length and width, followed by the species ("setosa," "versicolor" or "virginica"). 
 
 - The demo program uses 1-of-N label encoding, so setosa = (1,0,0) and versicolor = (0,1,0) and virginica = (0,0,1). The goal is to predict species from sepal and petal length and width. 
