@@ -5,7 +5,7 @@ The Iris Data Set has over 150 item records. Each item has four numeric predicto
 
 - The demo program uses 1-of-N label encoding, so setosa = (1,0,0) and versicolor = (0,1,0) and virginica = (0,0,1). The goal is to predict species from sepal and petal length and width. 
 
-- The 150-item dataset has 50 setosa items, followed by 50 versicolor, followed by 50 virginica. Before writing the demo program, I created a 120-item file of training data (using the first 30 of each species) and a 30-item file of test data (the leftover 10 of each species). 
+- The 150-item dataset has 50 setosa items, followed by 50 versicolor, followed by 50 virginica. Before writing the demo program, There is a 120-item file of training data (using the first 30 of each species) and a 30-item file of test data (the leftover 10 of each species). 
 
 - The demo program creates a simple neural network with four input nodes (one for each feature), five hidden processing nodes (the number of hidden nodes is a free parameter and must be determined by trial and error), and three output nodes (corresponding to encoded species). The demo loaded the training and test data into two matrices. 
 
