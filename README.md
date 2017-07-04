@@ -1,5 +1,6 @@
 # IrisData
 ## Iris Data Example Python Numpy
+### https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/04/how-to-implement-the-backpropagation-using-python-and-numpy/
 
 The Iris Data Set has over 150 item records. Each item has four numeric predictor variables (often called features): sepal length and width, and petal length and width, followed by the species ("setosa," "versicolor" or "virginica"). 
 
